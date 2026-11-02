@@ -1,0 +1,2 @@
+cryptography>=41.0.0
+python-socks>=2.4.0

@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+dist/
+*.build/
+*.dist/
+*.onefile-build/
+gui-errors.log
+child-crash.log

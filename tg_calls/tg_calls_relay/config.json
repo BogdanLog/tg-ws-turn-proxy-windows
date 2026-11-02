@@ -1,0 +1,11 @@
+{
+  "turn": {
+    "url": "",
+    "username": "",
+    "credential": "",
+    "key_id": "",
+    "api_token": "",
+    "mint_ttl": 7200,
+    "hf_token": ""
+  }
+}
