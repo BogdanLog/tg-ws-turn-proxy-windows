@@ -213,8 +213,6 @@ GUI всегда передаёт `--host`, `--port`, `--secret` и режим �
 | <img src="_shots/screens/onboarding/04-mtproto.png" width="280" alt="Подключение MTProto"> | <img src="_shots/screens/onboarding/05-proxy-run.png" width="280" alt="Запуск прокси"> |
 | <img src="_shots/screens/onboarding/06-turn.png" width="280" alt="Настройка TURN Relay"> | <img src="_shots/screens/onboarding/07-check.png" width="280" alt="Проверка настроек"> |
 
-Полный набор экранов, включая приветствие и вкладки настроек, — в [`_shots/README.md`](_shots/README.md).
-
 1. **Запуск профиля winws (zapret).** Приложение запускает `zapret/winws-tg-calls-relay.bat` и ждёт, пока `winws` появится в системе. Если `winws` уже запущен, шаг ничего не меняет. Если запустить не удалось, мастер не блокируется — можно продолжить и вернуться к этому позже; подробности будут в журнале `winws`.
 2. **Приветствие.** Краткое описание того, что делает приложение.
 3. **Метод маршрутизации.** Выберите один из трёх вариантов:
